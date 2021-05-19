@@ -6,7 +6,7 @@ This is a web server that streams video, or any, file. Essentially, you can watc
 
 The way it works is that it listens to GET requests from your browser and uses HTTP Responses to send over buffered video byte streams.
 
-How to do it yourself:
+### How to do it yourself:
 
 First, we're going to be using nginx and Amazon AWS for our web server: https://medium.com/@nathan_149/install-nginx-on-amazon-ec2-in-5-minutes-get-a-web-server-up-and-running-3516fd06b76
 
