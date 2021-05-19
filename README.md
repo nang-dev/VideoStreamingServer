@@ -1,6 +1,6 @@
 # Web Video Streaming Server (youtube sort-of clone)
 
-View this project at: http://3.13.89.142/
+### View this project at: [http://3.13.89.142/](http://3.13.89.142/)
 
 This is a web server that streams video, or any, file. Essentially, you can watch any video in my file system. Just like how you can watch videos from Youtube's database.
 
