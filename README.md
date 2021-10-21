@@ -15,7 +15,7 @@ Next, on your AWS machine, you can compile with:
     javac ContentServer.java
 and start with:
 
-    java ContentServer [port[
+    java ContentServer [port]
 I use port 10007, so its `java ContentServer 10007`
 
 Fill the `content`folder with any files to serve, and now anyone can access them via the Internet! :)
